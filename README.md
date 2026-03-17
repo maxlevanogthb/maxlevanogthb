@@ -13,6 +13,10 @@ Me apasiona resolver problemas complejos, estabilizar sistemas y automatizar pro
 - **Sistema de Gestión de Agua Doxey:** Gestión de cobros y contratos con Spring Boot y Tailwind.
 - **Óptica DXY:** Solución Fullstack para control clínico y de inventarios.
 
+## 🚀 Proyectos Profesionales
+- **Automatizacion de Monitoreo de procesos contables:** Conexion a servidores SFTP y SSH para consulta de archivos .dat y
+cruce con informacion en tiempo real con consultas en Oracle, usando python y flask con HTML/CSS.
+
 ### 🏆 Certificaciones
 - Oracle Certified Associate: Java SE 8 Programmer.
 - Scrum Fundamentals Certified (SFC).
