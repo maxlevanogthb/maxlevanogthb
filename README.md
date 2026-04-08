@@ -4,7 +4,7 @@ Ingeniero especializado en el ecosistema **Java** y **Oracle**.
 Me apasiona resolver problemas complejos, estabilizar sistemas y automatizar procesos con **Python**.
 
 ### 🛠️ Mi Stack Tecnológico
-- **Backend:** Java (17+), Spring Boot, Maven, Python.
+- **Backend:** Java (8/17+), Spring Boot, Maven, Python.
 - **Bases de Datos:** Oracle DB, PostgreSQL.
 - **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript.
 - **Herramientas:** Git, Selenium, Oracle WebLogic, JDeveloper.
