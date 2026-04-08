@@ -1,6 +1,6 @@
 # ¡Hola! Soy Max 👋 (Ing. en Sistemas)
 
-Ingeniero "todoterreno" especializado en el ecosistema **Java** y **Oracle**. 
+Ingeniero especializado en el ecosistema **Java** y **Oracle**. 
 Me apasiona resolver problemas complejos, estabilizar sistemas y automatizar procesos con **Python**.
 
 ### 🛠️ Mi Stack Tecnológico
